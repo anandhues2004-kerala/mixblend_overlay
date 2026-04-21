@@ -56,6 +56,10 @@ You can easily modify:
 
 ## 📱 Responsiveness
 
+[live](https://anandhues2004-kerala.github.io/mixblend_overlay/)
+
+![img](./download%20(4).png)
+
 * Works on **mobile**, **tablet**, and **desktop**
 * Uses Tailwind responsive classes like `md:text-5xl`
 
