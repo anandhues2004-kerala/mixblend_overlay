@@ -58,7 +58,7 @@ You can easily modify:
 
 [live](https://anandhues2004-kerala.github.io/mixblend_overlay/)
 
-![img]()
+![img](./download%20(5).png)
 
 * Works on **mobile**, **tablet**, and **desktop**
 * Uses Tailwind responsive classes like `md:text-5xl`
